@@ -13,3 +13,6 @@ K-means Clustering in wine dataset using, in this case we will to try k-means cl
                   
 ### How to Run
 * Running Using Rstudio/RGui
+
+### More Explanation
+visit my blog [Thinkstudioo.blogspot.com](https://thinkstudioo.blogspot.com/2018/07/clustering-data-menggunakan-k-means.html)
